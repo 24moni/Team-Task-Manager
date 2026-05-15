@@ -631,7 +631,7 @@ export default function Landing() {
           <span onClick={() => setShowContact(true)} style={{ cursor: 'pointer', color: 'var(--primary)', fontWeight: '600' }}>Contact Us</span>
         </div>
         <div style={{ marginTop: '24px', fontSize: '13px', fontWeight: '700', color: 'var(--text-primary)', letterSpacing: '0.01em' }}>
-          &copy; {new Date().getFullYear()} Team Task Manager. Created by <span style={{color: 'var(--primary)'}}>Saswat Kumar Das</span>. All rights reserved.
+          &copy; {new Date().getFullYear()} Team Task Manager. Created by <span style={{color: 'var(--primary)'}}>Monideepa Das</span>. All rights reserved.
         </div>
       </footer>
 
@@ -657,13 +657,13 @@ export default function Landing() {
             </p>
             <div style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
               <a
-                href="mailto:work.saswatkumardas@gmail.com"
+                href="mailto:work.monideepadas227@gmail.com"
                 style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '10px', padding: '14px 20px', background: 'var(--primary)', color: 'white', borderRadius: '10px', textDecoration: 'none', fontWeight: '600', fontSize: '15px' }}
               >
                 📧 Send an Email
               </a>
               <a
-                href="https://github.com/saswatkumardas"
+                href="https://github.com/24moni"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '10px', padding: '14px 20px', background: 'var(--card-bg)', border: '1px solid var(--card-border)', color: 'var(--text-primary)', borderRadius: '10px', textDecoration: 'none', fontWeight: '600', fontSize: '15px' }}
@@ -671,7 +671,7 @@ export default function Landing() {
                 🐙 GitHub Profile
               </a>
               <a
-                href="https://www.linkedin.com/in/saswat-kumar-das-069a51187"
+                href="https://www.linkedin.com/in/monideepa-das-227/"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '10px', padding: '14px 20px', background: '#0A66C2', color: 'white', borderRadius: '10px', textDecoration: 'none', fontWeight: '600', fontSize: '15px' }}
