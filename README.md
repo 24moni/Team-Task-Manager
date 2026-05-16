@@ -69,7 +69,7 @@ npm run dev             # runs on http://localhost:5173
 - 📧 Email notifications on task assignment
 
 ## Author
-**Saswat Kumar Das** — [LinkedIn](https://www.linkedin.com/in/saswat-kumar-das-069a51187)
+**Monideepa Das**
 
 ## License
 All rights reserved © 2026
