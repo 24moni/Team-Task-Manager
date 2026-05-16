@@ -2,7 +2,7 @@
 
 A collaborative project & task management web application for teams.
 
-A Team Task Manager web app helps organize team work by providing a central platform to create projects, assign tasks, and track progress. It improves accountability by clearly defining who is responsible for each task. With role-based access, admins manage tasks while members focus on execution, ensuring control and security. Overall, it increases productivity and reduces confusion.
+A Team Task Manager web app helps organize team work by providing a central platform to create projects, assign tasks, and track progress. It improves accountability by clearly defining who is responsible for each task. With role-based access, admins manage tasks while members focus on execution, ensuring control and security. 
 
 ## 🚀 Live Demo
 - **Frontend**: [https://famous-beijinho-c82072.netlify.app](https://famous-beijinho-c82072.netlify.app)
